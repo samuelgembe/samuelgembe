@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there, I'm Samuel 👋
 
-<!--
-**samuelgembe/samuelgembe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Product Designer** based in **Irvine, CA** with a background in audiovisual arts. I use code to understand the constraints of the web and build better digital products.
 
-Here are some ideas to get you started:
+- 🔭 **I’m currently working on:** Building scalable design systems and responsive web interfaces.
+- 🌱 **I’m currently learning:** Deepening my JavaScript knowledge and exploring CSS animations.
+- 🎨 **My Portfolio:** [samuelgembe.framer.website](https://samuelgembe.framer.website)
+- ⚡ **Fun fact:** I come from a background in professional video production, so I obsess over frame-perfect details.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack & Tools
+**Design:** Figma, Adobe Creative Suite (Expert), Design Systems.
+**Frontend:** HTML5, CSS3, JavaScript (ES6+).
+**Learning:** Reacts, Javascript (Advanced).
+
+---
+
+### 📬 Let's Connect
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/samuelgembe/)
